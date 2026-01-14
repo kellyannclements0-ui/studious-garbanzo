@@ -1,6 +1,5 @@
 <html>
-  # studious-garbanzo
-<title>new at this</title>
+ <title>  # studious-garbanzo </title>
 <body>
   <h1>hope it works</h1>
 </body>
